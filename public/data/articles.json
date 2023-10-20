@@ -1,0 +1,22 @@
+[
+    {
+        "id":1,
+        "titre": "Article 1",
+        "contenu": "contenu de larticle 1"
+    },
+    {
+        "id":2,
+        "titre": "Article 2",
+        "contenu": "contenu de larticle 2"
+    },
+    {
+        "id":3,
+        "titre": "Article 3",
+        "contenu": "contenu de larticle 3"
+    },
+    {
+        "id":4,
+        "titre": "Article 4",
+        "contenu": "contenu de larticle 4"
+    }
+]
